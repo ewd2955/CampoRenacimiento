@@ -8,14 +8,14 @@
         <title>Campo Renacimiento</title>
 
         
-        <link href="https://camporenacimiento.shop/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
-        <script src="https://camporenacimiento.shop/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
-        <script src="https://camporenacimiento.shop/bootstrap.min.js" integrity="sha384-0pUGZvbkm6XF6gxjEnlmuGrJXVbNuzT9qBBavbLwCsOGabYfZo0T0to5eqruptLy" crossorigin="anonymous"></script>
+        <link href="/bootstrap.min.css" rel="stylesheet" >
+        <script src="/popper.min.js" ></script>
+        <script src="/bootstrap.min.js" ></script>
         
-        <script src="https://camporenacimiento.shop/jquery.min.js"></script>
+        <script src="/jquery.min.js"></script>
         
-        <link rel="stylesheet" href="https://camporenacimiento.shop/dataTables.dataTables.css" />
-        <script src="https://camporenacimiento.shop/dataTables.js"></script>
+        <link rel="stylesheet" href="/dataTables.dataTables.css" />
+        <script src="/dataTables.js"></script>
         
   
         <!-- Scripts -->

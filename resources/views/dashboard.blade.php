@@ -214,7 +214,7 @@ table = new DataTable('#ventaTable_',{
 paginType : "full",
 pageLength : 10 ,
 language: {
-      url: '//cdn.datatables.net/plug-ins/2.0.5/i18n/es-ES.json', // Traducción al español
+      url: '/es-ES.json', // Traducción al español
     },
 
 }); 

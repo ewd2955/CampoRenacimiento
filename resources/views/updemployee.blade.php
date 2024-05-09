@@ -278,7 +278,7 @@ $.ajax('/ajaxempget', {
 paginType : "full",
 pageLength : 10 ,
 language: {
-  url: 'https://camporenacimiento.shop/es-ES.json', // Traducción al español
+  url: '/es-ES.json', // Traducción al español
     },
 });
       
